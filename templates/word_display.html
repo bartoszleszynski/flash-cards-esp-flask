@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flash cards - most common spanish words</title>
+</head>
+<body>
+    <p>Total Words: {{ total }} Known Words: {{ known_count }}</p>
+    <p>Flash Card: {{ counter }} Word Rank: {{ rank }}</p>
+    <h1>{{ word }}</h1>
+    <p>Lemma Form: {{ lemma }}</p>
+    <form action="/update" method="post">
+        <input type="hidden" name="action" value="translate">
+        <button type="submit">Show Translation</button>
+    </form>
+    <form action="/update" method="post">
+        <input type="hidden" name="action" value="next">
+        <button type="submit">Next Word</button>
+    </form>
+    <form action="/update" method="post">
+        <input type="hidden" name="action" value="know">
+        <button type="submit">I know</button>
+    </form>    
+    <form action="/update" method="post">
+        <input type="hidden" name="action" value="save">
+        <button type="submit">Save progress</button>
+    </form>
+</body>
+</html>

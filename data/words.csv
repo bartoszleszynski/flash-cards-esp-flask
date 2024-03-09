@@ -1,0 +1,91 @@
+"rank","word","occurrences (ppm)","lemma forms","translation","translation lemma","how many times","I know already"
+1,"que",32894,"que","that, what","that, what",0,0
+2,"de",32116,"de","of","of",0,0
+3,"no",29897,"no","No","No",0,0
+4,"a",22313,"a","to","to",0,0
+5,"el, la",21127,"el, la","the m., the f.","the m., the f.",0,0
+7,"soy, eres, es",16620,"ser","I am, you are","be",0,0
+7,"somos, sois, son",,"ser","We are, you are","be",0,0
+8,"y",15743,"y","and","and",0,0
+9,"en",15303,"en","in","in",0,0
+10,"lo",14010,"lo","it, the (tego) - complemento directo","it, the (tego) - complemento directo",0,0
+11,"un, una",13410,"un, una","a m., a f.","a m., a f.",0,0
+12,"por",10261,"por","by","by",0,0
+14,"me, te, se",9692,"me, te, se","singular pronouns: me (myself), te (yourself), and se (yourself (formal), himself, herself)","I",0,0
+17,"los, las",7589,"los, las","the m., f. - plural","the m., f. - plural",0,0
+19,"con",6799,"con","with","with",0,0
+20,"para",6455,"para","for, stop","for, stop",0,0
+21,"mi",5987,"mi","my","my",0,0
+22,"estoy, está, estas",5909,"estar","am, are, are","be",0,0
+22,"estamos, estais, estan",5987,"estar","we are, you are, they are","be",0,0
+23,"si",5880,"si","yes","yes",0,0
+24,"bien",5293,"bien","good","good",0,0
+25,"pero",5012,"pero","but","but",0,0
+26,"yo",4800,"yo","I","I",0,0
+27,"ese, esa, eso, esos, esas",4788,"ese, esa, eso, esos, esas","That, that, that, those, those","That, that, that, those, those",0,0
+29,"sí",4704,"sí","Yeah","Yeah",0,0
+30,"su",4549,"su","his / her","his / her",0,0
+31,"tu",4194,"tu","you / yours","you / yours",0,0
+32,"aquí",3952,"aquí","here","here",0,0
+33,"del",3911,"del","of the","of the",0,0
+34,"al",3887,"al","to the","to the",0,0
+35,"como",3760,"como","how / like / as","how / like / as",0,0
+36,"le",3470,"le","indirect object pronoun","indirect object pronoun",0,0
+37,"más",3395,"más","more","more",0,0
+38,"este, esta, esto, estos, estas",3152,"este, esta, esto, estos, estas","This, this, this, these, these","This, this, this, these, these",0,0
+39,"ya",2944,"ya","already","already",0,0
+40,"todo",2929,"todo","all","all",0,0
+41,"esta",2927,"esta","this","this",0,0
+42,"vamos",2830,"ir","come on","go",0,0
+43,"muy",2618,"muy","very","very",0,0
+44,"hay",2584,"haber","there is","to be",0,0
+45,"ahora",2523,"ahora","now","now",0,0
+46,"algo",2469,"algo","something","something",0,0
+48,"tengo",2349,"tener","I have","have",0,0
+49,"nos, os, se",2247,"nos, os, se","plural pronouns: nos (ourselves), os (yourselves), se (yourselves, themselves)",,0,0
+51,"nada",2122,"nada","nothing","nothing",0,0
+52,"cuando",2098,"cuando","when","when",0,0
+53,"ha",2079,"haber","ha","to have",0,0
+54,"este",2069,"este","this","this",0,0
+55,"sé",2066,"saber","HE","know",0,0
+57,"así",2044,"así","So","So",0,0
+58,"puedo",1972,"poder","I can","can",0,0
+59,"cómo",1969,"cómo","as","as",0,0
+60,"quiero",1940,"querer","wanna","want",0,0
+61,"sólo",1933,"sólo","only","only",0,0
+63,"tiene",1908,"tener","has","have",0,0
+64,"gracias",1886,"gracias","thank you","thank you",0,0
+65,"o",1850,"o","either","either",0,0
+67,"bueno",1824,"bueno","Well","Well",0,0
+68,"fue",1811,"ser ir","was","be going",0,0
+69,"ser",1782,"ser","be","be",0,0
+70,"hacer",1749,"hacer","do","do",0,0
+72,"todos",1687,"todo","all","all",0,0
+73,"era",1677,"ser","was","be",0,0
+75,"vez",1652,"vez","time","time",0,0
+76,"tienes",1636,"tener","have","have",0,0
+77,"creo",1584,"creer","believe","believe",0,0
+,"el",,"el","he","he",0,0
+78,"ella",1570,"ella","she","she",0,0
+79,"he",1570,"haber","He","to have",0,0
+80,"ese",1508,"ese","that","that",0,0
+81,"voy",1478,"ir","go","go",0,0
+82,"puede",1433,"poder","can","can",0,0
+83,"sabes",1422,"saber","You know","know",0,0
+84,"hola",1393,"hola","hello","hello",0,0
+85,"sus",1384,"su","their","his",0,0
+86,"porque",1362,"porque","because","because",0,0
+87,"dios",1356,"dios","God","God",0,0
+88,"quién",1351,"quién","who","who",0,0
+89,"nunca",1342,"nunca","never","never",0,0
+90,"dónde",1335,"dónde","where","where",0,0
+91,"quieres",1331,"querer","want","want",0,0
+92,"casa",1330,"casa casar","home","Casar house",0,0
+93,"favor",1313,"favor","favor","favor",0,0
+94,"esa",1306,"ese","that","that",0,0
+95,"dos",1301,"dos","two","two",0,0
+96,"tan",1291,"tanto","so","so much",0,0
+97,"señor",1289,"señor","Sir","Sir",0,0
+98,"tiempo",1288,"tiempo","time","time",0,0
+99,"verdad",1269,"verdad",TRUE,TRUE,0,0
+100,"estaba",1250,"estar","was","be",0,0
